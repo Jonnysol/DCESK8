@@ -1,8 +1,10 @@
 # DCESK8 - Washington DC Electric Skateboarding 
 <p align="center">
   <img src="images/image-1111.png" alt="DCESK8 Community" width="200">
-  <a href="https://www.DCESk8.com/> Visit the Website</a> |
 </p>
+<p align="center">
+<a href="https://www.DCESk8.com/> Visit the Website </a> 
+</p
 <p align="center">
   <img src="images/barbershop/gallery/1.jpg" alt="DCESK8 Community" width="600">
 </p>
@@ -26,7 +28,7 @@
 
 **What started as 4 friends with electric skateboards became a movement of 5,000+ riders.**
 
-In 2016, five 17-year-olds in Washington DC shared a simple passion: riding electric skateboards through the city. There was no community, no infrastructure, no support—just us, our boards, and the open road. We didn't have a business plan. We had a group chat and a dream.
+In 2016, at 17-year-old in Washington DC me and 4 friends shared a passion: riding electric skateboards. There was no community, no infrastructure, no support—just us, our boards, and the open road. We didn't have a business plan. We had a group chat and a dream.
 
 We built DCESK8 for the love of the game.
 
