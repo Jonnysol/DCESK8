@@ -1,5 +1,8 @@
-# DCESK8 - Washington DC Electric Skateboarding
-
+# DCESK8 - Washington DC Electric Skateboarding 
+<p align="center">
+  <img src="images/image-1111.png.jpg" alt="DCESK8 Community" width="200">
+  <a href="https://www.DCESk8.com/> Visit the Website</a> |
+</p>
 <p align="center">
   <img src="images/barbershop/gallery/1.jpg" alt="DCESK8 Community" width="600">
 </p>
